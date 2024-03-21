@@ -12,12 +12,26 @@ Design Responsivo: O jogo é responsivo e se adapta a diferentes tamanhos de tel
 Abra o jogo em seu navegador da web.
 Pressione qualquer  tecla para fazer Mario pular.
 Evite os obstáculos pulando sobre eles.
-# Tecnologias Utilizadas:
 
-HTML: Estruturação do conteúdo do jogo.
-CSS: Estilização e aparência visual do jogo.
-JavaScript: Lógica de jogo e interações dinâmicas.
+# Tecnologias Utilizadas:
+Estruturação do conteúdo do jogo.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)]()
+Estilização e aparência visual do jogo.
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)]()
+ Lógica de jogo e interações dinâmicas.
 Contribuindo:
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)]()
 
 Este jogo é um projeto de código aberto e qualquer pessoa é bem-vinda para contribuir com melhorias, correções de bugs ou novos recursos. Sinta-se à vontade para enviar um pull request ou abrir uma issue no repositório do GitHub.
 
+### REDES SOCIAS:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-de-sousa-silva-425b6b238)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/nayarade77?igshid=ZDdkNTZiNTM=)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://wa.me/5519983607624?text=Ol%C3%A1+%F0%9F%91%8B%2C++tudo+bem%3F)
+[![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+)](https://t.me/@Nayara_ackerman)
