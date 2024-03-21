@@ -1,5 +1,8 @@
 # Super-Mario
 
+Para jogar 
+[clique aqui](https://nayara12silva.github.io/Super-Mario/)
+
 É um jogo simples e divertido criado com HTML, CSS e JavaScript. No jogo, o jogador assume o controle de Mario, um personagem animado que precisa superar obstáculos pulando sobre eles.
 
 # Funcionalidades:
