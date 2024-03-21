@@ -15,13 +15,13 @@ Evite os obstáculos pulando sobre eles.
 
 # Tecnologias Utilizadas:
 Estruturação do conteúdo do jogo.
+Estilização e aparência visual do jogo.
+Contribuindo: Lógica de jogo e interações dinâmicas.
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )]()
-Estilização e aparência visual do jogo.
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )]()
- Lógica de jogo e interações dinâmicas.
-Contribuindo:
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )]()
 
